@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "恋人以上、好き未満 (Full Size)",
+  "base_artist": "=LOVE",
+  "createdAt": "2025-12-19T15:40:33.957242Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "恋人以上、好き未満 (Full Size)",
+      "artist": "=LOVE",
+      "has_synced": true,
+      "path": "select/01_恋人以上、好き未満_(Full_Size)_=LOVE.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "恋人以上、好き未満(instrumental) (Full Size)",
+      "artist": "=LOVE",
+      "has_synced": true,
+      "path": "select/02_恋人以上、好き未満(instrumental)_(Full_Size)_=LOVE.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "恋人以上、好き未満 - Full Size",
+      "artist": "=LOVE",
+      "has_synced": true,
+      "path": "select/03_恋人以上、好き未満_-_Full_Size_=LOVE.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "恋人以上、好き未満(instrumental) [Full Size]",
+      "artist": "=LOVE",
+      "has_synced": true,
+      "path": "select/04_恋人以上、好き未満(instrumental)_[Full_Size]_=LOVE.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "恋人以上、好き未満",
+      "artist": "=LOVE",
+      "has_synced": false,
+      "path": "select/pl_01_恋人以上、好き未満_=LOVE.txt"
+    }
+  ]
+}
